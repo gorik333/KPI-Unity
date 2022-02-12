@@ -5,6 +5,7 @@
 
   1. Куцурайс Георгий Олегович IO-93 Telegram: @gorik333
   2. Слупський Леонід Юрійович ІП-91 Telegram: @leonidius20
+
 ● Поиграть в любимые игры и разбить их на логические составляющие(движение, стрельба, система прокачки и т.д.)
 
   1. Джойстик, класс отвечающий за прокачку, система сохранения, стрельба рейкастами
@@ -16,24 +17,32 @@
 ● Создать и настроить таск менеджер
 
 ● Создать пустой проект и сделать первый коммит
-  1. Создали
 
+  1. Создали
 
 Продвинутый уровень
 ● Добавить плагины и материалы для работы (DoTween и т.д.)
+
   1. DoTween
   2. PathCreator
   3. DeviceSimulator
   4. ShaderGraph
   5. Cinemachine
+
 ● Найти источники контента (2D, 3D, аудио)
+
   1. 2D, 3D - itch.io, assetstore unity, audio - zvukipro.com
+
 ● Изучить игровые жанры и их особенности
+
   1. Idle Arcade, Strategy
   2. TD
   3. Strategy
   4. Casual
   5. HyperCasual
+
 ● Найти и подписаться на каналы по игровой разработке
-  1. storeglide
-  2. unity3dru (chat)
+
+  1. storeglide (group)
+  2. unity3d.ru (chat)
+  3. HYPER CASUAL BY AZUR GAMES (chat)
